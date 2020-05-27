@@ -8,10 +8,11 @@
 **Items a desarrollar**
 
 **1.	Diseñar un prototipo de la aplicación Agenda Telefónica.**
-![3](https://user-images.githubusercontent.com/65028186/82997082-8793a880-9fcb-11ea-8843-55f894027e26.jpg)
+![1](https://user-images.githubusercontent.com/65028186/82997080-86fb1200-9fcb-11ea-81df-51f357cf3a51.jpeg)
 
 **2.	Crear un repositorio en GitHub con el nombre “Práctica de laboratorio 04: Agenda Telefónica (Interfaz gráfica)”.**
 
+![3](https://user-images.githubusercontent.com/65028186/82997082-8793a880-9fcb-11ea-8843-55f894027e26.jpg)
 
 **3.	Desarrollar una Interfaz Gráfica de Usuario en Java para gestionar una agenda telefónica según los requerimientos planteados en las instrucciones de la práctica.**
 
@@ -28,12 +29,13 @@
 
 
 *3.2 Interfaz creada*
-
+![4](https://user-images.githubusercontent.com/65028186/82997075-85c9e500-9fcb-11ea-9a62-9b6e4be101f3.jpg)
 
 
 **4.	Realizar varios commits en la herramienta GitHub que demuestren el desarrollo de la aplicación desde principio a fin.**
 
 
+![commits](https://user-images.githubusercontent.com/65028186/82997077-86627b80-9fcb-11ea-8376-2134ea591021.jpg)
 
 **Resultados obtenidos de la Practica**
 
