@@ -8,7 +8,7 @@
 **Items a desarrollar**
 
 **1.	Diseñar un prototipo de la aplicación Agenda Telefónica.**
-
+![3](https://user-images.githubusercontent.com/65028186/82997082-8793a880-9fcb-11ea-8843-55f894027e26.jpg)
 
 **2.	Crear un repositorio en GitHub con el nombre “Práctica de laboratorio 04: Agenda Telefónica (Interfaz gráfica)”.**
 
